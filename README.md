@@ -56,6 +56,7 @@ REGISTER.PHP
 ![image](https://github.com/user-attachments/assets/042d9a06-6a7b-465a-b11b-84602038938d)
 
 CART.PHP
+
 EMPTY CART
 ![image](https://github.com/user-attachments/assets/af8719bd-d708-4728-9d35-c3ddd0fc1848)
 
