@@ -1,4 +1,25 @@
 # FinalsProject
+INSTRUCTION
+EXTRACT FILE ON HTDOCS
+IMPORT the Microsfot mysql file on localhost/phpmyadmin
+Open localhost/FinalsProject_JAMIL_LANSIGAN on your browser to open the website
+
+Login Info
+Username: Booo1l
+Password: K1ttenL0ver123!
+
+What each file does
+aboutus.php - shows the information about the company alongside with a form to contact the company.
+cart.php - contains the information of the added items on the cart, which you can check out and redirect on checkout.php, unless you have no items on your cart.
+checkout.php - contains the summary of the cart so the users can finalize the transaction.
+db_connect.php - a php code that connects the php file on the mysql database.
+index.php - the first page of the website which shows the welcome for not logged in users.
+login.php - a page that allows users to login to access other parts of the website.
+register.php - allows users to register an account for the website.
+services.php - contains all of the items that a user can add to cart and buy
+thankyou.php - this page is the final page which shows a thank you card after purchasing a item
+welcome.php - this page is a redirect after logging in which shows the users information.
+
 INDEX.PHP
 ![image](https://github.com/user-attachments/assets/8c5afb37-57b6-4bff-8ef2-3d50735ced55)
 ![image](https://github.com/user-attachments/assets/c00fb2fa-986a-458c-b996-b19976abb737)
