@@ -3,7 +3,8 @@ INSTRUCTION
 
 EXTRACT FILE ON HTDOCS
 IMPORT the Microsfot mysql file on localhost/phpmyadmin
-Open localhost/FinalsProject_JAMIL_LANSIGAN on your browser to open the website
+Open localhost/FinalsProject_JAMIL_LANSIGAN on your browser to open the website 
+  If error occurs, try this localhost/FinalsProject_JAMIL_LANSIGAN/FinalsProject_JAMIL_LANSIGAN
 
 Login Info
 Username: Booo1l
