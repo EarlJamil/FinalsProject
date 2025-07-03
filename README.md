@@ -1,5 +1,6 @@
 # FinalsProject
 INSTRUCTION
+
 EXTRACT FILE ON HTDOCS
 IMPORT the Microsfot mysql file on localhost/phpmyadmin
 Open localhost/FinalsProject_JAMIL_LANSIGAN on your browser to open the website
