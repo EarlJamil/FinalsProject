@@ -52,8 +52,6 @@ REGISTER.PHP
 ![image](https://github.com/user-attachments/assets/7638d7f8-0ff8-4713-bdb8-d2f044f2e06d)
 ![image](https://github.com/user-attachments/assets/8a21d50c-04e0-4405-a4da-d4d7ea528e97)
 ![image](https://github.com/user-attachments/assets/af157e80-3e6b-4e8d-84b6-7fcc563d4a5d)
-![image](https://github.com/user-attachments/assets/9f311c87-9e50-4503-a8c8-0757f17a8822)
-![image](https://github.com/user-attachments/assets/042d9a06-6a7b-465a-b11b-84602038938d)
 
 CART.PHP
 
@@ -64,6 +62,8 @@ IF CART HAS/HAVE AN ITEM
 ![image](https://github.com/user-attachments/assets/fb389477-c0ef-4a61-afda-256555a1ad41)
 
 SERVICES.PHP
+![image](https://github.com/user-attachments/assets/9f311c87-9e50-4503-a8c8-0757f17a8822)
+![image](https://github.com/user-attachments/assets/042d9a06-6a7b-465a-b11b-84602038938d)
 ![image](https://github.com/user-attachments/assets/6b6af28d-720c-4081-ab66-5c9525205e35)
 ![image](https://github.com/user-attachments/assets/423458ef-7ff7-4256-8c99-68c04c540d1d)
 
